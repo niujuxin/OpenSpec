@@ -507,4 +507,8 @@ newCmd
     }
   });
 
+import { registerRefineCommand } from '../commands/refine.js';
+
+registerRefineCommand(program);
+
 program.parse();

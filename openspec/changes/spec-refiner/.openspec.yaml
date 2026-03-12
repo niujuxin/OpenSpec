@@ -1,0 +1,6 @@
+metadata:
+  title: Spec Refiner Module (MVP)
+  description: Add an iterative spec refinement feature with LLM-driven ambiguity analysis and Q&A loops
+  author: OpenSpec Contributors
+  createdAt: "2026-03-12"
+  mvp: true
